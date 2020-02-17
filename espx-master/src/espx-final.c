@@ -343,10 +343,10 @@ void produceMsg(int sig){
 	logger(message, 0);
 	
 	int t = rand() % (RANDOM_TIME) + BASE_TIME; //produce message every 20secs to 60secs
-	FILE *fp;
-	fp = fopen("msgTimes.txt", "a+");
-	fprintf(fp, "%d\n", t);
-	fclose(fp);
+	// FILE *fp;
+	// fp = fopen("msgTimes.txt", "a+");
+	// fprintf(fp, "%d\n", t);
+	// fclose(fp);
 
 	alarm(t);
 	
