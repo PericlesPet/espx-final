@@ -1,0 +1,43 @@
+6666
+"Charles Darwin", 
+"Rene Descartes",
+"Pierre de Fermat", 
+"Fibonacci", 
+"Benjamin Franklin",
+"Galileo Galilei", 
+"Heinrich Hertz",
+"Hypatia",
+"James Maxwell",
+"Gregor Mendel",
+"Alfred Nobel",
+"Pythagoras"
+
+7777
+"Thales of Miletus",
+"Michael Faraday",
+"Leonhard Euler",
+"Nicolas Carnot",
+"Isaac Newton",
+"Friedrich Gauss",
+"Albert Einstein",
+"Marie Curie",
+"Brian Kernighan",
+"Linus Torvalds",
+"John Carmack",
+"Larry Page"
+
+
+8896
+"Andre-Marie Ampere",
+"Archimedes",
+"Aristotle",
+"Graham Bell",
+"Daniel Bernoulli",
+"Niels Bohr",
+"Nicolaus Copernicus",
+"Carl Sassenrath",
+"Richard Stallman",
+"Bjarne Stroustrup",
+"Donald Knuth",
+"Tim Berners-Lee"
+
